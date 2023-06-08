@@ -44,8 +44,10 @@ body {
     background: #52ffa8;
     border: none;
     padding: 15px 17px;
-    border-radius: 50%;
-    cursor: pointer; }
+    border-radius: 50%; }
+    .container__card__btn :hover {
+      cursor: pointer;
+      box-shadow: 1px 1px 50px 1px #52ffa8; }
 
 footer {
   margin: 80px; }

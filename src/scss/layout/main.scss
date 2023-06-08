@@ -45,7 +45,10 @@ body {
       border: none;
       padding: 15px 17px;
       border-radius: 50%;
-      cursor: pointer;
+      :hover {
+        cursor: pointer;
+        box-shadow: 1px 1px 50px 1px ($Neon-Green);
+      }
     }
   }
 }
