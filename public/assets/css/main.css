@@ -47,6 +47,16 @@ body {
     border-radius: 50%;
     cursor: pointer; }
 
+footer {
+  margin: 80px; }
+
+.attribution {
+  color: white; }
+
+.attribution a {
+  color: #52ffa8;
+  text-decoration: none; }
+
 @media (max-width: 425px) {
   .card {
     margin: 0 12px;

@@ -49,6 +49,17 @@ body {
     }
   }
 }
+footer {
+  margin: 80px;
+}
+.attribution {
+  color: white;
+}
+.attribution a {
+  color: $Neon-Green;
+  text-decoration: none;
+}
+
 @media (max-width: 425px) {
   .card {
     margin: 0 12px;

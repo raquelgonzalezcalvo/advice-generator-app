@@ -1,2 +1,9 @@
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+
+.attribution {
+  color: white; }
 
 /*# sourceMappingURL=footer.css.map */
