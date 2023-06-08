@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-family: "Manrope", sans-serif;
+  background-color: #1f2632;
+  overflow-y: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh; }
+
+.container__card {
+  background-color: #4e5d73;
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px;
+  border-radius: 13px;
+  position: relative; }
+  .container__card__title {
+    color: #52ffa8;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 3px;
+    padding-bottom: 14px; }
+  .container__card__advice {
+    font-size: 18px;
+    color: white;
+    letter-spacing: 1.1px;
+    margin-bottom: 20px; }
+  .container__card__divider {
+    width: 95%;
+    display: block;
+    padding-bottom: 20px;
+    margin: 0 auto; }
+  .container__card__btn {
+    position: absolute;
+    left: 50%;
+    bottom: -31px;
+    transform: translateX(-50%);
+    background: #52ffa8;
+    border: none;
+    padding: 15px 17px;
+    border-radius: 50%;
+    cursor: pointer; }
+
+@media (max-width: 425px) {
+  .card {
+    margin: 0 12px;
+    padding: 20px; } }
+
+footer {
+  margin-top: 90px; }
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: white; }
+
+.attribution a {
+  color: #52ffa8;
+  text-decoration: none; }
+
+/*# sourceMappingURL=main.css.map */
