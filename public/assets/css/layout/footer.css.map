@@ -1,1 +1,1 @@
-{"version":3,"sources":["layout/footer.scss"],"names":[],"mappings":"AAAA;EACE,gBAAgB,EAAA;;AAElB;EACE,eAAe;EACf,kBAAkB;EAClB,YAAY,EAAA;;AAEd;EAEE,qBAAqB,EAAA","file":"footer.css","sourcesContent":["footer {\r\n  margin-top: 90px;\r\n}\r\n.attribution {\r\n  font-size: 11px;\r\n  text-align: center;\r\n  color: white;\r\n}\r\n.attribution a {\r\n  // color: $Neon-Green;\r\n  text-decoration: none;\r\n}\r\n"]}
+{"version":3,"sources":[],"names":[],"mappings":"","file":"footer.css","sourcesContent":[]}

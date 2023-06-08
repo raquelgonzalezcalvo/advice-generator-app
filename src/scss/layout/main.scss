@@ -10,7 +10,7 @@ body {
 
 .container {
   &__card {
-    background-color: $Grayish-Blue;
+    background-color: $Dark-Grayish-Blue;
     max-width: 400px;
     margin: 0 auto;
     text-align: center;
@@ -41,7 +41,7 @@ body {
       left: 50%;
       bottom: -31px;
       transform: translateX(-50%);
-      background: hsl(150, 100%, 66%);
+      background: $Neon-Green;
       border: none;
       padding: 15px 17px;
       border-radius: 50%;
